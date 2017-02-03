@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- App-wide colors to indicate whether the temperature is warm or cool -->
+    <color name="colorPrimary">#FF757575</color>
+    <color name="colorPrimaryDark">#ff606060</color>
+    <color name="colorAccent">#ff9800</color>
+
+    <color name="weather_warm">#ff9800</color>
+    <color name="weather_cool">#03a9f4</color>
+
+    <!-- Forecast card colors -->
+    <color name="forecast_card_divider">#ccc</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="day_title_color">#FF000000</color>
+    <color name="divider">#FFCCCCCC</color>
+    <color name="forecast_temperature_color">#FF000000</color>
+    <color name="forecast_time_color">#FF000000</color>
+</resources>
